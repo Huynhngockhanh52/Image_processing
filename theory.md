@@ -63,3 +63,4 @@
 |---|---|
 |***`numpy`***                                  |*[Documentation](https://numpy.org/doc/stable/reference/index.html)*|
 |`array(im)`                                    |Đọc `im` là một đối tượng ảnh `PIL`, trả về ảnh là `ndarray`|
+|`meshgrid(*xi, indexing='xy')`                 |Trả về ma trận tọa độ từ các vectơ tọa độ|
